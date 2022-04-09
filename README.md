@@ -1,6 +1,6 @@
 - :business_suit_levitating: Hi, I’m Venkat Talla 
-- :lab_coat:  I am currently a postdoctoral researcher at Uppsala University. I have finished my PhD in evolutionary genomics at the Department of Ecology and Genetics, Uppsala University, Sweden in October 2018.
-- :briefcase: I’m currently learning Full stack developer using python and Java
+- :lab_coat: :briefcase:  I am currently a postdoctoral researcher at Uppsala University. I have finished my PhD in evolutionary genomics at the Department of Ecology and Genetics, Uppsala University, Sweden in October 2018.
+-  I’m currently learning to be a Full stack developer using python, Java and CSS.
 - 
 - You can reach me by :e-mail: tallavenkat.vit@gmail.com
 
