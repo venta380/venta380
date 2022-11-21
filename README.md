@@ -5,8 +5,6 @@
 - You can reach me by :e-mail: tallavenkat.vit@gmail.com
 
 
-[![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=venta380&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 venta380/venta380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
